@@ -1,7 +1,7 @@
 #!/bin/sh
 
 out_iface="eth0"
-server_IP="35.176.216.187"
+server_IP="1.2.3.4"
 subnet="192.168.42.0/24"
  
 # strongswan
